@@ -7,11 +7,13 @@ example projects for continous deployment to Azure and other cloud services
 1. [GitHubActionsBasics](https://github.com/Jay-study-nildana/GitHubActionsBasics). Vanilla JS Bootstrap example, continuos deployed to an Azure Web App.
 1. [P5JSForStudents](https://github.com/Jay-study-nildana/P5JSForStudents) . Simple Bootstrap website continuos deployed to an Azure Web App. Showcases my generative art using P5.JS
 1. [GitHubActionsReactJS](https://github.com/Jay-study-nildana/GitHubActionsReactJS). Simple React JS, continuos deployed to an Azure Web App.
+1. [GitHubActionsNodeJS](https://github.com/Jay-study-nildana/GitHubActionsNodeJS). Simple Node JS, continuos deployed to an Azure Web App.
 
 # Blogs and Tutorials
 
 1. https://medium.com/projectwt/github-actions-vanilla-js-bootstrap-azure-web-app-f17a24418321
 1. https://medium.com/projectwt/github-actions-react-js-azure-web-app-c1478edea8a2
+1. https://medium.com/projectwt/github-actions-node-js-azure-web-app-what-a-insert-expletive-nightmare-863ece42485a
 
 # Hire Me
 
