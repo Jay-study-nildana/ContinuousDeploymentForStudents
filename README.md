@@ -15,6 +15,7 @@ Vercel
 
 1. [vercelbackenddemo](https://github.com/Jay-study-nildana/vercelbackenddemo). simple node js server deployed on Vercel.
 1. [VercelReactJSDemo](https://github.com/Jay-study-nildana/VercelReactJSDemo). simple react js server deployed on Vercel.
+2. [VercelBootstrapVanillaJSDemo](https://github.com/Jay-study-nildana/bootstrapvideotutorialvercel). bootstrap vanilla jS deployed to vercel.
 
 # Blogs and Tutorials
 
